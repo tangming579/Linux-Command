@@ -7,4 +7,4 @@
 Linux Command
 --- 
 
-Linux命令归纳、整理，基于《Unix & Linux大学教程》
+Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linux大学教程》
