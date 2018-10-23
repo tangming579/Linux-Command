@@ -7,7 +7,7 @@
 Linux Command
 --- 
 
-Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linux大学教程》。也有一部分是自己实际开发中的总结
+Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linux大学教程》。也有一部分是使用中的总结
 
 1. [Unix连接 & 开始使用Unix](https://github.com/tangming579/Linux-Command/blob/master/command/1.Unix连接开始使用Unix.md)
 2. [文件跳转及文件目录操作](https://github.com/tangming579/Linux-Command/blob/master/command/2.文件跳转及文件目录操作.md)
