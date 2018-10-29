@@ -20,6 +20,8 @@ Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linu
 * [忘记密码与远程登录](https://github.com/tangming579/Linux-Command/blob/master/command/9.忘记密码与远程登录.md)
 * [vi与vim](https://github.com/tangming579/Linux-Command/blob/master/command/10.vi与vim.md)
 * [防火墙配置](https://github.com/tangming579/Linux-Command/blob/master/command/11.防火墙配置.md)
+* [高级文本处理命令](https://github.com/tangming579/Linux-Command/blob/master/command/12.高级文本处理命令.md)
+* [定时任务crontab](https://github.com/tangming579/Linux-Command/blob/master/command/13.linux定时任务crontab.md)
 * [Shell脚本-1.编写第一个脚本](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-1.编写第一个脚本.md)
 * [Shell脚本-2.变量与参数传递](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-2.变量与参数传递.md)
 * [Shell脚本-3.数组与运算符](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-3.数组与运算符.md)
