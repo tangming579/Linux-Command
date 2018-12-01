@@ -13,7 +13,7 @@ Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linu
 * [文件跳转及文件目录操作](https://github.com/tangming579/Linux-Command/blob/master/command/2.文件跳转及文件目录操作.md)
 * [使用命令、重定向](https://github.com/tangming579/Linux-Command/blob/master/command/3.使用命令、重定向.md)
 * [Shell眼中看世界](https://github.com/tangming579/Linux-Command/blob/master/command/4.Shell眼中看世界.md)
-* [权限与进程](https://github.com/tangming579/Linux-Command/blob/master/command/5.权限与进程.md)
+* [权限、进程、服务](https://github.com/tangming579/Linux-Command/blob/master/command/5.权限进程与服务管理.md)
 * [软件包管理](https://github.com/tangming579/Linux-Command/blob/master/command/6.软件包管理.md)
 * [存储媒介与网络系统](https://github.com/tangming579/Linux-Command/blob/master/command/7.存储媒介与网络系统.md)
 * [文件查找与归档备份](https://github.com/tangming579/Linux-Command/blob/master/command/8.文件查找与归档备份.md)
