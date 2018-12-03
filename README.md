@@ -29,5 +29,4 @@ Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linu
 * [Shell脚本-5.函数](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-5.函数.md)
 * [Shell脚本-6.输入输出重定向](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-6.输入输出重定向.md)
 * [Shell脚本-7.文件包含](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-7.文件包含.md)
-* [实战应用-CentOS7 MySql 8.0安装与配置](https://github.com/tangming579/Linux-Command/blob/master/command/实战-MySql8 安装与配置.md)
-
+* [实战应用-CentOS7 MySql 8.0安装与配置](https://github.com/tangming579/Linux-Command/blob/master/command/实战-MySql8安装与配置.md)
