@@ -23,6 +23,7 @@ Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linu
 * [高级文本处理命令](https://github.com/tangming579/Linux-Command/blob/master/command/12.高级文本处理命令.md)
 * [定时任务crontab](https://github.com/tangming579/Linux-Command/blob/master/command/13.定时任务crontab.md)
 * [压缩与解压缩](https://github.com/tangming579/Linux-Command/blob/master/command/14.压缩与解压缩.md)
+* [Http 服务](https://github.com/tangming579/Linux-Command/blob/master/command/15.http%E6%9C%8D%E5%8A%A1.md)
 * [Shell脚本-1.编写第一个脚本](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-1.编写第一个脚本.md)
 * [Shell脚本-2.变量与参数传递](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-2.变量与参数传递.md)
 * [Shell脚本-3.数组与运算符](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-3.数组与运算符.md)
@@ -31,3 +32,5 @@ Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linu
 * [Shell脚本-6.输入输出重定向](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-6.输入输出重定向.md)
 * [Shell脚本-7.文件包含](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-7.文件包含.md)
 * [实战应用-CentOS7 MySql 8.0安装与配置](https://github.com/tangming579/Linux-Command/blob/master/command/实战-MySql8安装与配置.md)
+* [常见问题汇总](https://github.com/tangming579/Linux-Command/blob/master/command/%E5%AE%9E%E6%88%98-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB.md)
+
