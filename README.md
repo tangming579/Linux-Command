@@ -25,7 +25,7 @@ Linux命令归纳、整理，基于《The Linux Command Line》和《Unix & Linu
 * [压缩与解压缩](https://github.com/tangming579/Linux-Command/blob/master/command/14.压缩与解压缩.md)
 * [Http 服务](https://github.com/tangming579/Linux-Command/blob/master/command/15.http%E6%9C%8D%E5%8A%A1.md)
 * [标准目录结构 FHS]([https://github.com/tangming579/Linux-Command/blob/master/command/16.%E6%A0%87%E5%87%86%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%20FHS.md](https://github.com/tangming579/Linux-Command/blob/master/command/16.标准目录结构 FHS.md))
-* [守护进程 Supervisor]([./command/17.守护进程 Supervisor.md])
+* [守护进程 Supervisor](#./command/17.守护进程 Supervisor.md])
 * [Shell脚本-1.编写第一个脚本](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-1.编写第一个脚本.md)
 * [Shell脚本-2.变量与参数传递](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-2.变量与参数传递.md)
 * [Shell脚本-3.数组与运算符](https://github.com/tangming579/Linux-Command/blob/master/command/Shell脚本-3.数组与运算符.md)
