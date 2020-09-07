@@ -26,6 +26,7 @@ yum -y install mysql-server
 ```
 systemctl enable mysqld
 systemctl daemon-reload
+systemctl start mysqld
 ```
 
 mysql初始密码
